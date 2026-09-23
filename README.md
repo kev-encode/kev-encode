@@ -2,7 +2,11 @@
 
 ## About Me
 
-I am a student of Temple High School (THS), eager to dive into Python and aerospace engineering.
+* High school student
+    * Temple High School (THS)
+    * Class of 2027
+* Learning Python
+* Interested in aerospace engineering
 
 ## Social Links
 
