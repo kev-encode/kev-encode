@@ -18,5 +18,4 @@
 ## Tech Stack
 
 * Python (3.13, 3.14)
-* C (C23)
 * Claude Code
