@@ -18,4 +18,5 @@
 ## Tech Stack
 
 * Python (3.13, 3.14)
+* QML (6.11)
 * Claude Code
