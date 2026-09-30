@@ -5,6 +5,7 @@
 * High school student
     * Temple High School (THS)
     * Class of 2027
+* Learning C++ and Lua
 * Practicing Python
 * Interested in aerospace engineering
 
