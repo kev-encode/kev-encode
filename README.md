@@ -6,7 +6,6 @@
     * Temple High School (THS)
     * Class of 2027
 * Learning C++ and Lua
-* Practicing Python
 * Interested in aerospace engineering
 
 ## Social Links
@@ -20,3 +19,4 @@
 
 * Python (3.13, 3.14)
 * Claude Code
+* Roblox Studio
