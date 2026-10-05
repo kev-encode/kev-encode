@@ -2,11 +2,10 @@
 
 ## About Me
 
-* High school student
-    * Temple High School (THS)
-    * Class of 2027
-* Learning C++ and Roblox Studio
-* Interested in aerospace engineering and system design
+* Temple High School student (senior)
+* Learning C++ and C in system design
+* Working on Roblox game development using Lua, Luau, and Roblox Studio
+* Interested in aerospace engineering
 
 ## Social Links
 
