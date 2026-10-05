@@ -5,8 +5,8 @@
 * High school student
     * Temple High School (THS)
     * Class of 2027
-* Learning C++ and Lua
-* Interested in aerospace engineering
+* Learning C++ and Roblox Studio
+* Interested in aerospace engineering and system design
 
 ## Social Links
 
