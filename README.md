@@ -16,6 +16,6 @@
 
 ## Tech Stack
 
-* Python (3.13, 3.14)
+* Python (3.12, 3.13, 3.14)
 * Claude Code
 * Roblox Studio
