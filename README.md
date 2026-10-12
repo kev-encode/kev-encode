@@ -11,7 +11,7 @@
 
 * Email: kevinwjie@gmail.com
 * LinkedIn: [in/kevin-jie-21a477368](https://www.linkedin.com/in/kevin-jie-21a477368/)
-* YouTube: [@kev-encode](https://www.youtube.com/@kev-encode/)
+* YouTube: [@ascii-dent](https://www.youtube.com/@ascii-dent/shorts)
 * Instagram: [kev_encode](https://www.instagram.com/kev_encode/)
 
 ## Tech Stack
