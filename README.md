@@ -3,8 +3,7 @@
 ## About Me
 
 * Temple High School student
-* Learning C++ and C in system design
-* Working on Roblox game development using Lua, Luau, and Roblox Studio
+* Learning C++ in system design
 * Interested in aerospace engineering
 
 ## Social Links
