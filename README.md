@@ -17,5 +17,3 @@
 
 * Python 3.14
 * C++26
-* Claude Code
-* Roblox Studio
